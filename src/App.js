@@ -6,6 +6,7 @@ export default function App() {
     <div className="App">
       {/* <InputComponent /> */}
       <UndoSendText />
+      {/* <Pointer /> */}
     </div>
   );
 }
